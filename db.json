@@ -1,46 +1,80 @@
 {
   "users": [
     {
-      "id": 1,
+      "user_id": 1,
       "username": "user1",
       "password": "pass1"
     },
     {
-      "id": 2,
+      "user_id": 2,
       "username": "user2",
       "password": "pass2"
     },
     {
-      "id": 3,
+      "user_id": 3,
       "username": "user1",
       "password": "pass1"
     },
     {
-      "id": 4,
+      "user_id": 4,
       "username": "user1",
       "password": "pass1"
     }
   ],
-   "categories": [
+  "categories": [
     {
-      "id": 1,
-      "username": "user1",
-      "password": "pass1"
+      "category_id": 1,
+      "name": "Red Shirt",
+      "image": "https://resource.nhuahvt.com/0x0/tmp/chup-anh-san-pham-phang-1596647399.jpg"
     },
     {
-      "id": 2,
-      "username": "user2",
-      "password": "pass2"
+      "category_id": 2,
+      "name": "Yellow Shirt",
+      "image": "https://blog.dktcdn.net/files/cach-chup-san-pham-quan-ao-ban-hang-3.jpg"
     },
     {
-      "id": 3,
-      "username": "user1",
-      "password": "pass1"
+      "category_id": 3,
+      "name": "Pink Shirt",
+      "image": "https://hewel.com.vn/files/image/523-vai-thoi-trang-cac-loai.jpg"
     },
     {
-      "id": 4,
-      "username": "user1",
-      "password": "pass1"
+      "category_id": 4,
+      "name": "Black Shirt",
+      "image": "https://thing.vn/wp-content/uploads/2022/02/y-tuong-thiet-ke-shop-quan-ao-dep-9.jpg"
+    }
+  ],
+  "products": [
+    {
+      "product_id": 1,
+      "category_id": 1,
+      "name": "Product 1",
+      "image": "https://thing.vn/wp-content/uploads/2022/02/y-tuong-thiet-ke-shop-quan-ao-dep-9.jpg",
+      "price": 300,
+      "description": "Product 1 description"
+    },
+    {
+      "product_id": 2,
+      "category_id": 2,
+      "name": "Product 2",
+      "image": "https://thing.vn/wp-content/uploads/2022/02/y-tuong-thiet-ke-shop-quan-ao-dep-9.jpg",
+      "price": 400,
+      "description": "Product 2 description"
+    },
+    {
+      "product_id": 3,
+      "category_id": 1,
+      "name": "Product 3",
+      "image": "https://thing.vn/wp-content/uploads/2022/02/y-tuong-thiet-ke-shop-quan-ao-dep-9.jpg",
+      "price": 500,
+      "description": "Product 3 description"
+    },
+    {
+      "product_id": 4,
+      "category_id": 2,
+      "name": "Product 4",
+      "image": "https://thing.vn/wp-content/uploads/2022/02/y-tuong-thiet-ke-shop-quan-ao-dep-9.jpg",
+      "price": 600,
+      "description": "Product 4 description"
     }
   ]
 }
