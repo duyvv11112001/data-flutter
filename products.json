@@ -3,7 +3,8 @@
     {
       "id": 1,
       "name": "product1",
-      "price": 500
+      "price": 500,
+      "cagegory":1,
       "description": "You can use GET, POST, PUT, PATCH and DELETE. Changes aren't persisted between calls.",
       "image": ""
     },
@@ -11,6 +12,7 @@
      "id": 2,
       "name": "product1",
       "price": 500
+      "cagegory":2,
       "description": "You can use GET, POST, PUT, PATCH and DELETE. Changes aren't persisted between calls.",
       "image": ""
     },
@@ -18,6 +20,7 @@
       "id": 3,
       "name": "product1",
       "price": 500
+      "cagegory":3,
       "description": "You can use GET, POST, PUT, PATCH and DELETE. Changes aren't persisted between calls.",
       "image": ""
     },
@@ -25,6 +28,7 @@
       "id": 4,
       "name": "product1",
       "price": 500
+      "cagegory":4,
       "description": "You can use GET, POST, PUT, PATCH and DELETE. Changes aren't persisted between calls.",
       "image": ""
     }
