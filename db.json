@@ -20,5 +20,27 @@
       "username": "user1",
       "password": "pass1"
     }
+  ],
+   "categories": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "pass1"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "password": "pass2"
+    },
+    {
+      "id": 3,
+      "username": "user1",
+      "password": "pass1"
+    },
+    {
+      "id": 4,
+      "username": "user1",
+      "password": "pass1"
+    }
   ]
 }
